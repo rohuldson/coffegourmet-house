@@ -1,0 +1,155 @@
+/* Estilos para a barra de navegação */
+.navbar {
+    background-color: #61451a;
+}
+
+.navbar-brand {
+    font-size: 24px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 18px;
+}
+
+.bg-dark {
+    background: #2e2011 !important;
+}
+
+/* Estilos para o carousel */
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 10px;
+}
+
+.carousel-caption h3 {
+    font-size: 30px;
+    color: #fff;
+}
+
+/* Estilos para a seção "Quem Somos" */
+#quem-somos {
+    background-color: #f7f7f7;
+    padding: 50px 0;
+}
+
+#quem-somos h2 {
+    font-size: 36px;
+    color: #653f16;
+    margin-bottom: 20px;
+}
+
+#quem-somos p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Estilos para a seção "Nosso Time" */
+#nosso-time {
+    padding: 50px 0;
+}
+
+#nosso-time h2 {
+    font-size: 36px;
+    color: #653f16;
+    margin-bottom: 20px;
+}
+
+#nosso-time .col-md-4 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#nosso-time img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
+
+#nosso-time p {
+    font-size: 18px;
+    color: #333;
+}
+
+/* Estilos para a seção "Nossos Produtos" */
+#nossos-produtos {
+    padding: 50px 0;
+}
+
+#nossos-produtos h2 {
+    font-size: 36px;
+    color: #653f16;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+/* .card-body{
+height: 230px;
+
+} */
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.card-text {
+    font-size: 18px;
+    color: #333;
+ 
+}
+.card-text-price {
+    font-size: 18px;
+    color: #653f16;
+    font-weight: bold;
+}
+
+/* Estilos para o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+footer h5 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+footer p {
+    font-size: 16px;
+}
+
+footer a {
+    color: #fff;
+    font-size: 24px;
+    margin-right: 15px;
+}
+
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+}
+
+.section {
+    padding: 80px 0;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
